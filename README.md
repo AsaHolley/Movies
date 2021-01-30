@@ -1,1 +1,1 @@
-ETL and SQL work
+ETL work
