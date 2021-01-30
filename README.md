@@ -1,1 +1,1 @@
-ETL work
+This work envolved creating one function that takes in three files worth of movie data—Wikipedia data, Kaggle metadata, and the MovieLens rating data—and performs the ETL process by adding the data to a PostgreSQL database.
